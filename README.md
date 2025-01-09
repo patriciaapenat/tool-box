@@ -6,4 +6,4 @@
 
 # Código reciclable
 
-Este repositorio tiene snippets de código para diferentes funcionalidades de data, es el resultado de haberme dado golpes durante horas con algo y hacerlo es mi forma de evitar tener que volver a repetir la situacion puesto que soy consciente de que no podría reproducirlo pasados meses o años.
+Este repositorio tiene snippets de código para diferentes funcionalidades de data
